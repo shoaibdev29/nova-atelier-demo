@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[8680,["919","static/chunks/919-0f95b953a7ec1bd2.js","974","static/chunks/app/page-d15b4bbc56d36fd3.js"],"StoreProvider"]
+5:I[5923,["919","static/chunks/919-0f95b953a7ec1bd2.js","974","static/chunks/app/page-d15b4bbc56d36fd3.js"],"default"]
+6:I[7189,["919","static/chunks/919-0f95b953a7ec1bd2.js","974","static/chunks/app/page-d15b4bbc56d36fd3.js"],"default"]
+7:I[3425,["919","static/chunks/919-0f95b953a7ec1bd2.js","974","static/chunks/app/page-d15b4bbc56d36fd3.js"],"Collections"]
+8:I[4565,["919","static/chunks/919-0f95b953a7ec1bd2.js","974","static/chunks/app/page-d15b4bbc56d36fd3.js"],"default"]
+9:I[687,["919","static/chunks/919-0f95b953a7ec1bd2.js","974","static/chunks/app/page-d15b4bbc56d36fd3.js"],"default"]
+a:I[3425,["919","static/chunks/919-0f95b953a7ec1bd2.js","974","static/chunks/app/page-d15b4bbc56d36fd3.js"],"Story"]
+b:I[3425,["919","static/chunks/919-0f95b953a7ec1bd2.js","974","static/chunks/app/page-d15b4bbc56d36fd3.js"],"Benefits"]
+c:I[3425,["919","static/chunks/919-0f95b953a7ec1bd2.js","974","static/chunks/app/page-d15b4bbc56d36fd3.js"],"Testimonials"]
+d:I[3425,["919","static/chunks/919-0f95b953a7ec1bd2.js","974","static/chunks/app/page-d15b4bbc56d36fd3.js"],"Newsletter"]
+e:I[8455,["919","static/chunks/919-0f95b953a7ec1bd2.js","974","static/chunks/app/page-d15b4bbc56d36fd3.js"],"default"]
+f:I[8708,["919","static/chunks/919-0f95b953a7ec1bd2.js","974","static/chunks/app/page-d15b4bbc56d36fd3.js"],"default"]
+10:I[4431,[],"OutletBoundary"]
+12:I[5278,[],"AsyncMetadataOutlet"]
+14:I[4431,[],"ViewportBoundary"]
+16:I[4431,[],"MetadataBoundary"]
+17:"$Sreact.suspense"
+19:I[7150,[],""]
+:HL["/nova-atelier-demo/_next/static/media/af4bf8399d1aacdf-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nova-atelier-demo/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nova-atelier-demo/_next/static/css/362fbc739f651324.css","style"]
+0:{"P":null,"b":"5UhcR4VMA4KUbCCw1IAu3","p":"/nova-atelier-demo","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/nova-atelier-demo/_next/static/css/362fbc739f651324.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_16b2eb __variable_496ed8","children":["$","body",null,{"className":"font-sans bg-cream text-charcoal","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L4",null,{"children":[["$","$L5",null,{}],["$","main",null,{"children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}],["$","$Le",null,{}],["$","$Lf",null,{}]]}],null,["$","$L10",null,{"children":["$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L14",null,{"children":"$L15"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L16",null,{"children":["$","div",null,{"hidden":true,"children":["$","$17",null,{"fallback":null,"children":"$L18"}]}]}]]}],false]],"m":"$undefined","G":["$19",[]],"s":false,"S":true}
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1a:I[622,[],"IconMark"]
+13:{"metadata":[["$","title","0",{"children":"NOVA ATELIER — Designed to Elevate Everyday Living"}],["$","meta","1",{"name":"description","content":"Discover thoughtfully designed essentials that bring beauty, performance and simplicity into your everyday life. Interactive store demonstration."}],["$","link","2",{"rel":"icon","href":"/nova-atelier-demo/icon.svg?ee20a16ad280beba","type":"image/svg+xml","sizes":"any"}],["$","$L1a","3",{}]],"error":null,"digest":"$undefined"}
+18:"$13:metadata"
